@@ -1,47 +1,41 @@
-# JobOffer
+Друг, привет! 
 
-Привет, Друг!
+Наша команда работает над маркетплейсом Sokrat - приложение для iOS и Android! Мы ищем в команду разработчиков, а где их искать как не в популярном сервисе Githab! )
+Я много писать не буду, если тебе интерсно стать участником развивающегося проекта, свяжись с нами по одной из ссылок ниже!
 
-Наверняка вы слышали о быстром развитии EdTech сферы, а про успех маркетплейсов не нужно говорить дополнительных слов.
+iOS https://redirect.appmetrica.yandex.com/serve/99708109685061445
 
-Sokrat - это первый полноценный маркетплейс в сфере образования. Мы не учим пользователей, а занимаемся продажи курсов по модели Озон, Booking и Яндекс.Маркет. У нас уже более 40 топовых образовательных партнеров, а в 2022 мы начали привлекать средние и высшие учебные заведения.
+Android https://redirect.appmetrica.yandex.com/serve/1108514430494260799
+ 
+site https://sokratinvest.ru/joboffer
 
-Sokrat. уже скачали более 22000 раз. Вы сами можете посмотреть его в действии:
+telegram https://t.me/sokratsupport
 
-ios: https://redirect.appmetrica.yandex.com/serve/99708109685061445
+Если тебе не интерсно, то просто качай наше приложение и ищи знания для своих навыков. Если захочешь получить персональный грант на обучение, то напиши нам любым способом что ты используешь Githab и наш специалист согласует персональный грант специально для тебя!
+
+Извини за беспокойство, мы не хотели так незванно вторгаться в твое пространство) 
+
+С лучшими пожеланиями, Sokrat.Team
+
+
+____________________________________________________________________________________________________________________________________________________________________
+
+
+Friend, hi!
+
+Our team is working on the Sokrat marketplace - an application for iOS and Android! We are looking for a team of developers, and where to look for them if not in the popular Githab service! )
+I won’t write much, if you are interested in becoming a member of a developing project, contact us using one of the links below!
+
+iOS https://redirect.appmetrica.yandex.com/serve/99708109685061445
 
 android: https://redirect.appmetrica.yandex.com/serve/1108514430494260799
 
-site: https://sokratapp.ru/ (В разработаке)
+site https://sokratinvest.ru/joboffer
 
-Сейчас Sokrat - это полноценное MVP, которое решает первостепенные задачи пользователей и хорошо закрепившееся в магазинах приложений. Пришло время ему стать технологичнее, для того чтобы ускорить рост и начать активную фазу масштабирования.
+telegram https://t.me/sokratsupport
 
-Вот именно поэтому мы ищем технических партнеров к нам в команду на условиях опциона.
+If you are not interested, then just download our application and look for knowledge for your skills. If you want to receive a personal grant for education, then write to us in any way that you use Githab and our specialist will agree on a personal grant especially for you!
 
-Кого мы ищем?
+Sorry to bother you, we didn't mean to invade your space so uninvited)
 
-CTO | Требования:
-Senior backend developer, опыт работы в маркетплейсе или онлайн школе, fullstack разработчик, PHP, laravel, react, API, работа с платежными системами, понимание архитектуры, web socket, БД, Firebase, опыт работы от 6-ти лет
-
-Backend разработчик | Требования:
-Senior backend developer, опыт работы в маркетплейсе или онлайн школе будет преимуществом, PHP, laravel, API, работа с платежными системами, Firebase, понимание архитектуры, web socket, опыт работы от 4-х лет.
-
-Frontend разработчик | Требования:
-Senior frontend developer, опыт работы в маркетплейсе или онлайн школе будет преимуществом, HTML, CSS, React, Json, JS, опыт работы от 4-х лет.
-
-iOS developer | Требования:
-Senior iOS developer, опыт работы в маркетплейсе или онлайн школе будет преимуществом, SWIFT, API, работа с платежными системами, Firebase, понимание архитектуры, web socket, опыт работы от 4-х лет.
-
-Android developer | Требования:
-Senior Android developer, опыт работы в маркетплейсе или онлайн школе будет преимуществом, Kotlin, API, работа с платежными системами, Firebase, понимание архитектуры, web socket, опыт работы от 4-х лет.
-
-Что надо будет делать:
-
-Улучшение серверной части;
-Разработка новых "фич" на сайте и в приложении для увелечения конверсий в продажу, LTV, Retention и прочих показателей эффективности;
-Улучшение пользовательского интерфейса.
-Мы ждем технически сильных и креативных специалистов дополнить сильную команду "продажников" и маркетологов, а также команду разработчиков.
-
-Куда писать? email: office@sokratapp.ru telegram: https://t.me/sokratsupport форма для отклика на предложение: https://sokratinvest.ru/joboffer
-
-Ждем тебя в Sokrat.Team
+With best wishes, Sokrat.Team
